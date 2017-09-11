@@ -39,6 +39,7 @@ function iLoveTheBeatles(n) {
       newVar.push('I love The Beatles!');
       n++;
     }
+    return newVar
   }
 
 }

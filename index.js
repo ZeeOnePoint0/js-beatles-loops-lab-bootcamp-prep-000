@@ -8,7 +8,7 @@ function theBeatlesPlay(musician, instrument) {
   var newArr = new Array();
 
   for (i = 0; i < 5; i++) {
-    console.log('${musicians} plays ${instruments}')
+    console.log('${musicians[i]} plays ${instruments[i]}')
   }
   
 }

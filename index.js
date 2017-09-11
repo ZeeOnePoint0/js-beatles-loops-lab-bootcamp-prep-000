@@ -37,6 +37,6 @@ function iLoveTheBeatles(n) {
   do {
     newVar.push('I love The Beatles!');
     n++;
-  } while (n < 16);
+  } while (n < 15);
   return newVar;
 }

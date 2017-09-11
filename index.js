@@ -29,6 +29,7 @@ function johnLennonFacts(array) {
   while (i -= facts.length) {
     excla.push(facts[i] + "!!!");
   }
-
+  
+return excla;
 
 }

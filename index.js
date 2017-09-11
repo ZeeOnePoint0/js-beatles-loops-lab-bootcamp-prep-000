@@ -33,5 +33,12 @@ return excla;
 function iLoveTheBeatles(n) {
 
   var newVar = [];
-  
+
+  do {
+    while ( < 15) {
+      newVar.push('I love The Beatles!');
+      n++;
+    }
+  }
+
 }

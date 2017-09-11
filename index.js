@@ -7,8 +7,8 @@ function theBeatlesPlay(musician, instrument) {
 
   var newArr = new Array();
 
-  for (i = 0; i < 6; i++) {
+  for (i = 0; i < 5; i++) {
     console.log('${musicians} plays ${instruments}')
   }
-
+  
 }

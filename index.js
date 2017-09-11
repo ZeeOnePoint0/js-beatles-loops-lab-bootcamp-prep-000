@@ -34,12 +34,14 @@ function iLoveTheBeatles(n) {
 
   var newVar = [];
 
+  var n = 0;
+
   do {
     while (n < 15) {
       newVar.push('I love The Beatles!');
       n++;
     }
-    return newVar
+    return newVar;
   }
 
 }

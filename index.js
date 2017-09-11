@@ -34,8 +34,6 @@ function iLoveTheBeatles(n) {
 
   var newVar = [];
 
-  var n = 0;
-
   do {
     newVar.push('I love The Beatles!');
     n++;

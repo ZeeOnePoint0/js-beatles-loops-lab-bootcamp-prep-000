@@ -3,7 +3,7 @@ var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Star
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
 
 
-function theBeatlesPlay(musician, instrument) {
+function theBeatlesPlay(musicians, instruments) {
 
   var newArr = [];
 
